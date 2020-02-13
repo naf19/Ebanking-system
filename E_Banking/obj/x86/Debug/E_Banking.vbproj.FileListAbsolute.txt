@@ -1,0 +1,87 @@
+C:\Users\User\Desktop\maingi\E_Banking\E_Banking\bin\Debug\E_Banking.exe
+C:\Users\User\Desktop\maingi\E_Banking\E_Banking\bin\Debug\E_Banking.pdb
+C:\Users\User\Desktop\maingi\E_Banking\E_Banking\bin\Debug\E_Banking.xml
+C:\Users\User\Desktop\maingi\E_Banking\E_Banking\obj\x86\Debug\E_Banking.Account.resources
+C:\Users\User\Desktop\maingi\E_Banking\E_Banking\obj\x86\Debug\E_Banking.Deposit.resources
+C:\Users\User\Desktop\maingi\E_Banking\E_Banking\obj\x86\Debug\E_Banking.MDIParent1.resources
+C:\Users\User\Desktop\maingi\E_Banking\E_Banking\obj\x86\Debug\E_Banking.Resources.resources
+C:\Users\User\Desktop\maingi\E_Banking\E_Banking\obj\x86\Debug\E_Banking.Withdraw.resources
+C:\Users\User\Desktop\maingi\E_Banking\E_Banking\obj\x86\Debug\E_Banking.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\maingi\E_Banking\E_Banking\obj\x86\Debug\E_Banking.exe
+C:\Users\User\Desktop\maingi\E_Banking\E_Banking\obj\x86\Debug\E_Banking.xml
+C:\Users\User\Desktop\maingi\E_Banking\E_Banking\obj\x86\Debug\E_Banking.pdb
+C:\Users\User\Desktop\maingi\E_Banking\E_Banking\obj\x86\Debug\E_Banking.FrmCustomers.resources
+C:\Users\User\Desktop\New folder\E_Banking\E_Banking\obj\x86\Debug\E_Banking.exe
+C:\Users\User\Desktop\New folder\E_Banking\E_Banking\obj\x86\Debug\E_Banking.xml
+C:\Users\User\Desktop\New folder\E_Banking\E_Banking\obj\x86\Debug\E_Banking.pdb
+C:\Users\Student1\Documents\New folder\E_Banking\E_Banking\obj\x86\Debug\E_Banking.exe
+C:\Users\Student1\Documents\New folder\E_Banking\E_Banking\obj\x86\Debug\E_Banking.xml
+C:\Users\Student1\Documents\New folder\E_Banking\E_Banking\obj\x86\Debug\E_Banking.pdb
+C:\Users\Student1\Documents\New folder\E_Banking\E_Banking\bin\Debug\E_Banking.exe
+C:\Users\Student1\Documents\New folder\E_Banking\E_Banking\bin\Debug\E_Banking.pdb
+C:\Users\Student1\Documents\New folder\E_Banking\E_Banking\bin\Debug\E_Banking.xml
+C:\Users\Student1\Documents\New folder\E_Banking\E_Banking\obj\x86\Debug\E_Banking.Account.resources
+C:\Users\Student1\Documents\New folder\E_Banking\E_Banking\obj\x86\Debug\E_Banking.Deposit.resources
+C:\Users\Student1\Documents\New folder\E_Banking\E_Banking\obj\x86\Debug\E_Banking.FrmCustomers.resources
+C:\Users\Student1\Documents\New folder\E_Banking\E_Banking\obj\x86\Debug\E_Banking.MDIParent1.resources
+C:\Users\Student1\Documents\New folder\E_Banking\E_Banking\obj\x86\Debug\E_Banking.Resources.resources
+C:\Users\Student1\Documents\New folder\E_Banking\E_Banking\obj\x86\Debug\E_Banking.Withdraw.resources
+C:\Users\Student1\Documents\New folder\E_Banking\E_Banking\obj\x86\Debug\E_Banking.vbproj.GenerateResource.Cache
+C:\Users\Student1\Documents\New folder\E_Banking\E_Banking\bin\Debug\E_Banking.exe.config
+C:\Users\Student1\Documents\New folder\E_Banking\E_Banking\obj\x86\Debug\E_Banking.frmLogin.resources
+C:\Users\Student1\Documents\New folder\E_Banking\E_Banking\obj\x86\Debug\E_Banking.frmmain.resources
+C:\Users\Student1\Documents\New folder\E_Banking\E_Banking\obj\x86\Debug\E_Banking.frmViewDeposits.resources
+C:\Users\Student1\Documents\New folder\E_Banking\E_Banking\obj\x86\Debug\E_Banking.frmviewaccounts.resources
+C:\Users\Student1\Documents\New folder\E_Banking\E_Banking\obj\x86\Debug\E_Banking.frmviewcustomers.resources
+C:\Users\Student1\Documents\New folder\E_Banking\E_Banking\bin\Debug\ebankdb.sdf
+C:\Users\Student1\Documents\New folder\E_Banking\E_Banking\obj\x86\Debug\E_Banking.frmviewwithdrawal.resources
+C:\Users\Student1\Documents\New folder\E_Banking\E_Banking\obj\x86\Debug\E_Banking.frmreguser.resources
+C:\Users\User\Desktop\kaimenyi\projects\E_Banking\E_Banking\bin\Debug\E_Banking.exe.config
+C:\Users\User\Desktop\kaimenyi\projects\E_Banking\E_Banking\obj\x86\Debug\E_Banking.exe
+C:\Users\User\Desktop\kaimenyi\projects\E_Banking\E_Banking\obj\x86\Debug\E_Banking.xml
+C:\Users\User\Desktop\kaimenyi\projects\E_Banking\E_Banking\obj\x86\Debug\E_Banking.pdb
+C:\Users\User\Desktop\maingi\E_Banking final System\E_Banking\bin\Debug\E_Banking.exe.config
+C:\Users\User\Desktop\maingi\E_Banking final System\E_Banking\obj\x86\Debug\E_Banking.exe
+C:\Users\User\Desktop\maingi\E_Banking final System\E_Banking\obj\x86\Debug\E_Banking.xml
+C:\Users\User\Desktop\maingi\E_Banking final System\E_Banking\obj\x86\Debug\E_Banking.pdb
+C:\Users\User\Desktop\maingi\E_Banking final System\E_Banking\bin\Debug\ebankdb.sdf
+C:\Users\User\Desktop\maingi\E_Banking final System\E_Banking\bin\Debug\E_Banking.exe
+C:\Users\User\Desktop\maingi\E_Banking final System\E_Banking\bin\Debug\E_Banking.pdb
+C:\Users\User\Desktop\maingi\E_Banking final System\E_Banking\bin\Debug\E_Banking.xml
+C:\Users\User\Desktop\maingi\E_Banking final System\E_Banking\obj\x86\Debug\E_Banking.Account.resources
+C:\Users\User\Desktop\maingi\E_Banking final System\E_Banking\obj\x86\Debug\E_Banking.Deposit.resources
+C:\Users\User\Desktop\maingi\E_Banking final System\E_Banking\obj\x86\Debug\E_Banking.FrmCustomers.resources
+C:\Users\User\Desktop\maingi\E_Banking final System\E_Banking\obj\x86\Debug\E_Banking.frmLogin.resources
+C:\Users\User\Desktop\maingi\E_Banking final System\E_Banking\obj\x86\Debug\E_Banking.frmmain.resources
+C:\Users\User\Desktop\maingi\E_Banking final System\E_Banking\obj\x86\Debug\E_Banking.frmreguser.resources
+C:\Users\User\Desktop\maingi\E_Banking final System\E_Banking\obj\x86\Debug\E_Banking.frmviewaccounts.resources
+C:\Users\User\Desktop\maingi\E_Banking final System\E_Banking\obj\x86\Debug\E_Banking.frmviewcustomers.resources
+C:\Users\User\Desktop\maingi\E_Banking final System\E_Banking\obj\x86\Debug\E_Banking.frmViewDeposits.resources
+C:\Users\User\Desktop\maingi\E_Banking final System\E_Banking\obj\x86\Debug\E_Banking.frmviewwithdrawal.resources
+C:\Users\User\Desktop\maingi\E_Banking final System\E_Banking\obj\x86\Debug\E_Banking.MDIParent1.resources
+C:\Users\User\Desktop\maingi\E_Banking final System\E_Banking\obj\x86\Debug\E_Banking.Resources.resources
+C:\Users\User\Desktop\maingi\E_Banking final System\E_Banking\obj\x86\Debug\E_Banking.Withdraw.resources
+C:\Users\User\Desktop\maingi\E_Banking final System\E_Banking\obj\x86\Debug\E_Banking.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\maingi\E_Banking final System\E_Banking\bin\Debug\E_Banking.exe.manifest
+C:\Users\User\Desktop\maingi\E_Banking final System\E_Banking\bin\Debug\E_Banking.application
+C:\Users\User\Desktop\maingi\E_Banking final System\E_Banking\obj\x86\Debug\E_Banking.exe.manifest
+C:\Users\User\Desktop\maingi\E_Banking final System\E_Banking\obj\x86\Debug\E_Banking.application
+C:\Users\caro\Desktop\me\E_Banking final System\E_Banking\bin\Debug\E_Banking.exe.config
+C:\Users\caro\Desktop\me\E_Banking final System\E_Banking\obj\x86\Debug\E_Banking.exe
+C:\Users\caro\Desktop\me\E_Banking final System\E_Banking\obj\x86\Debug\E_Banking.xml
+C:\Users\caro\Desktop\me\E_Banking final System\E_Banking\obj\x86\Debug\E_Banking.pdb
+C:\Users\caro\Desktop\me\E_Banking final System\E_Banking\obj\x86\Debug\E_Banking.vbprojResolveAssemblyReference.cache
+C:\Users\caro\Desktop\me\E_Banking final System\E_Banking\obj\x86\Debug\E_Banking.Account.resources
+C:\Users\caro\Desktop\me\E_Banking final System\E_Banking\obj\x86\Debug\E_Banking.Deposit.resources
+C:\Users\caro\Desktop\me\E_Banking final System\E_Banking\obj\x86\Debug\E_Banking.FrmCustomers.resources
+C:\Users\caro\Desktop\me\E_Banking final System\E_Banking\obj\x86\Debug\E_Banking.frmLogin.resources
+C:\Users\caro\Desktop\me\E_Banking final System\E_Banking\obj\x86\Debug\E_Banking.frmmain.resources
+C:\Users\caro\Desktop\me\E_Banking final System\E_Banking\obj\x86\Debug\E_Banking.frmreguser.resources
+C:\Users\caro\Desktop\me\E_Banking final System\E_Banking\obj\x86\Debug\E_Banking.frmviewaccounts.resources
+C:\Users\caro\Desktop\me\E_Banking final System\E_Banking\obj\x86\Debug\E_Banking.frmviewcustomers.resources
+C:\Users\caro\Desktop\me\E_Banking final System\E_Banking\obj\x86\Debug\E_Banking.frmViewDeposits.resources
+C:\Users\caro\Desktop\me\E_Banking final System\E_Banking\obj\x86\Debug\E_Banking.frmviewwithdrawal.resources
+C:\Users\caro\Desktop\me\E_Banking final System\E_Banking\obj\x86\Debug\E_Banking.MDIParent1.resources
+C:\Users\caro\Desktop\me\E_Banking final System\E_Banking\obj\x86\Debug\E_Banking.Resources.resources
+C:\Users\caro\Desktop\me\E_Banking final System\E_Banking\obj\x86\Debug\E_Banking.Withdraw.resources
+C:\Users\caro\Desktop\me\E_Banking final System\E_Banking\obj\x86\Debug\E_Banking.vbproj.GenerateResource.Cache
